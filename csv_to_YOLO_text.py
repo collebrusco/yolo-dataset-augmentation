@@ -22,7 +22,7 @@ for filename in os.listdir("Dataset/Test"):
         bounding_boxes.append(bounding_box)
     text_to_put_in = ""
     for bounding_box in bounding_boxes:
-        text_to_put_in+= str(bounding_box_category.iloc[0])+" "+str(bounding_box[0])+" "+str(bounding_box[1])+" "+str(bounding_box[2])+" "+str(bounding_box[3])+"\n"
+        text_to_put_in+= str(0)+" "+str(bounding_box[0])+" "+str(bounding_box[1])+" "+str(bounding_box[2])+" "+str(bounding_box[3])+"\n"
     
     text_file.write(text_to_put_in)
 
@@ -41,7 +41,7 @@ for filename in os.listdir("Dataset/Train"):
         bounding_boxes.append(bounding_box)
     text_to_put_in = ""
     for bounding_box in bounding_boxes:
-        text_to_put_in+= str(bounding_box_category.iloc[0])+" "+str(bounding_box[0])+" "+str(bounding_box[1])+" "+str(bounding_box[2])+" "+str(bounding_box[3])+"\n"
+        text_to_put_in+= str(0)+" "+str(bounding_box[0])+" "+str(bounding_box[1])+" "+str(bounding_box[2])+" "+str(bounding_box[3])+"\n"
     
     text_file.write(text_to_put_in)
 
@@ -60,7 +60,7 @@ for filename in os.listdir("Dataset/Validation"):
         bounding_boxes.append(bounding_box)
     text_to_put_in = ""
     for bounding_box in bounding_boxes:
-        text_to_put_in+= str(bounding_box_category.iloc[0])+" "+str(bounding_box[0])+" "+str(bounding_box[1])+" "+str(bounding_box[2])+" "+str(bounding_box[3])+"\n"
+        text_to_put_in+= str(0)+" "+str(bounding_box[0])+" "+str(bounding_box[1])+" "+str(bounding_box[2])+" "+str(bounding_box[3])+"\n"
     
     text_file.write(text_to_put_in)
     
