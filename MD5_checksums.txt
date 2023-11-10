@@ -1,13 +1,13 @@
-6a3efff2cc8afeebcf9d532f5306807f  Images_png_01.zip @DONE
-25461666505bed0521b4b676d294db06  Images_png_02.zip @DONE
-8ab499d74048c5564fd7ecfd191dae13  Images_png_03.zip @DONE
-c7f1eb43706d8b029b214259cd35eeb3  Images_png_04.zip @DONE
-9ff2b5442e43ce5e0a005bb83aebf0b4  Images_png_05.zip @DONE
-751be56c3d9c43dcddd5939524c38b89  Images_png_06.zip @DONE
-7b8bfa1994089219b20fa22894ea7741  Images_png_07.zip @DONE
-29941730413fd5108bc48cad0476f9f6  Images_png_08.zip @DONE
-d0d466b81371cf41bf3115a45b44a57f  Images_png_09.zip @DONE
-875f2c9236a51436cf89030034d12e7b  Images_png_10.zip @DONE
+6a3efff2cc8afeebcf9d532f5306807f  Images_png_01.zip
+25461666505bed0521b4b676d294db06  Images_png_02.zip
+8ab499d74048c5564fd7ecfd191dae13  Images_png_03.zip
+c7f1eb43706d8b029b214259cd35eeb3  Images_png_04.zip
+9ff2b5442e43ce5e0a005bb83aebf0b4  Images_png_05.zip
+751be56c3d9c43dcddd5939524c38b89  Images_png_06.zip
+7b8bfa1994089219b20fa22894ea7741  Images_png_07.zip
+29941730413fd5108bc48cad0476f9f6  Images_png_08.zip
+d0d466b81371cf41bf3115a45b44a57f  Images_png_09.zip
+875f2c9236a51436cf89030034d12e7b  Images_png_10.zip
 ee0cabcea2ba1c40da0993067a99b4c9  Images_png_11.zip
 144d9bd2d565ed9ae882810b82b20775  Images_png_12.zip
 8b167a04f28e0d7f37f40a0753595d8b  Images_png_13.zip
