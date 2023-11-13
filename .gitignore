@@ -1,3 +1,4 @@
 /Dataset
 *.o
 .DS_Store
+*.png
