@@ -2,3 +2,5 @@
 *.o
 .DS_Store
 *.png
+/yolov7_training/venv/
+*.cache
